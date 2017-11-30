@@ -1,4 +1,4 @@
-package com.andsync.xpermissionutils.util.manufacturer;
+package com.andsync.xpermission.manufacturer;
 
 import android.os.Build;
 
@@ -6,9 +6,9 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
-import static com.andsync.xpermissionutils.util.manufacturer.PermissionsPageManager.MANUFACTURER_MEIZU;
-import static com.andsync.xpermissionutils.util.manufacturer.PermissionsPageManager.MANUFACTURER_OPPO;
-import static com.andsync.xpermissionutils.util.manufacturer.PermissionsPageManager.MANUFACTURER_XIAOMI;
+import static com.andsync.xpermission.manufacturer.PermissionsPageManager.MANUFACTURER_MEIZU;
+import static com.andsync.xpermission.manufacturer.PermissionsPageManager.MANUFACTURER_OPPO;
+import static com.andsync.xpermission.manufacturer.PermissionsPageManager.MANUFACTURER_XIAOMI;
 
 
 /**

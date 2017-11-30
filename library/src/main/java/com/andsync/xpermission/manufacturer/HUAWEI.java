@@ -1,4 +1,4 @@
-package com.andsync.xpermissionutils.util.manufacturer;
+package com.andsync.xpermission.manufacturer;
 
 import android.app.Activity;
 import android.content.ActivityNotFoundException;
