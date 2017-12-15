@@ -37,7 +37,7 @@ import java.util.List;
 public class XPermissionUtils {
 
     private static int mRequestCode = -1;
-    private static OnPermissionListener mOnPermissionListener;
+    public static OnPermissionListener mOnPermissionListener;
 
     public interface OnPermissionListener {
 
