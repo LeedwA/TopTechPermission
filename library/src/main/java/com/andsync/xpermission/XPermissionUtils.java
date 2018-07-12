@@ -83,6 +83,7 @@ public class XPermissionUtils {
                     mOnPermissionListener.onPermissionGranted();
                 }
             }
+            mOnPermissionListener = null;
         }
     }
 
